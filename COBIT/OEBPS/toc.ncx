@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="pt">
+<head>
+<meta content="AWP-0B6A8AFA-0BBF-4B10-9C37-B5B2D49DB0B4" name="dtb:uid"/>
+<meta content="2" name="dtb:depth"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+  <text>COBIT [Resumo]</text>
+</docTitle>
+<navMap>
+  <navPoint id="navpoint-1" playOrder="1">
+    <navLabel>
+      <text>Capa</text>
+    </navLabel>
+    <content src="Text/001.html"/>
+  </navPoint>
+  <navPoint id="navpoint-2" playOrder="2">
+    <navLabel>
+      <text>INTRODUÇÃO</text>
+    </navLabel>
+    <content src="Text/002.html"/>
+  </navPoint>
+  <navPoint id="navpoint-3" playOrder="2">
+    <navLabel>
+      <text>INTRODUÇÃO</text>
+    </navLabel>
+    <content src="Text/003.html"/>
+  </navPoint>
+</navMap>
+</ncx>
